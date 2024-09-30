@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student from [Department of Computer Science](https://computing.hit.edu.cn), [HIT](hit.edu.cn).
+I am a fourth year undergraduate student from [Department of Computer Science](https://computing.hit.edu.cn), [HIT](https://hit.edu.cn).
 
-Research Interests
+Research Interest
 ======
-I am focusing on Reinforcement Learning and Deep Learning in solving reality problems, such as LLMs in Robotics or Text-To-Image generation models.
+I am focusing on Reinforcement Learning and Deep Learning in solving reality problems, such as LLMs in Robotics manipulation/perception and Text-To-Image generation models.
