@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student from [Department of Computer Science](https://computing.hit.edu.cn), [HIT]([https://hit.edu.cn](https://www.hit.edu.cn/)).
+I am a fourth year undergraduate student from [Department of Computer Science](https://computing.hit.edu.cn), [HIT](https://www.hit.edu.cn/).
 
 Research Interest
 ======
